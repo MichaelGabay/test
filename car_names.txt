@@ -1,0 +1,48 @@
+Car Names List
+
+Popular Car Brands and Models and other stuf:
+
+1. Toyota Camry
+2. Honda Civic
+
+4. Chevrolet Silverado
+5. Nissan Altima
+6. BMW 3 Series
+7. Mercedes-Benz C-Class
+8. Audi A4
+9. Volkswagen Golf
+10. Hyundai Elantra
+11. Kia Optima
+12. Mazda CX-5
+13. Subaru Outback
+14. Jeep Wrangler
+15. Ram 1500
+16. GMC Sierra
+17. Lexus RX
+18. Acura MDX
+19. Infiniti Q50
+20. Volvo XC60
+21. Porsche 911
+
+
+24. Jaguar F-Pace
+25. Land Rover Range Rover
+26. Cadillac Escalade
+27. Lincoln Navigator
+28. Genesis G80
+29. Alfa Romeo Giulia
+30. Maserati Ghibli
+
+Luxury Sports Cars:
+- Ferrari 488
+- Lamborghini Huracan
+- McLaren 720S
+- Aston Martin DB11
+- Bentley Continental GT
+
+Electric Vehicles:
+
+- Nissan Leaf
+- Chevrolet Bolt EV
+- Ford Mustang Mach-E
+
